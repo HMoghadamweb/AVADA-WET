@@ -1,4 +1,4 @@
- [Demo Project](https://hmoghadamweb.github.io/classicshop/)
+ [Demo Project](https://hmoghadamweb.github.io/AVADA-WET/)
 
 - Developed by Hasti Moghadam
 
